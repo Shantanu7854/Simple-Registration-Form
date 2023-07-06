@@ -1,15 +1,15 @@
 import pyrebase
 
 config = {
-    "apiKey": "AIzaSyBPbmmATboA8_kxYBYElXjpCX7SXmSUhxI",
-    "authDomain": "finaltest-807f5.firebaseapp.com",
-    "databaseURL": "https://finaltest-807f5-default-rtdb.firebaseio.com",
-    "projectId": "finaltest-807f5",
-    "storageBucket": "finaltest-807f5.appspot.com",
-    "messagingSenderId": "216402489904",
-    "appId": "1:216402489904:web:471532d70f11a3086733f5",
-    "measurementId": "G-ERV9YFFHHH"
-}
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": "",
+    "measurementId": ""
+} 
 
 firebase = pyrebase.initialize_app(config)
 
